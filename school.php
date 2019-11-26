@@ -1,7 +1,7 @@
 <?php 
 
-$firstName = 'Alena';
-$lastName = 'Holligan';
+$firstName = 'Matt';
+$lastName = 'Harvey';
 $currentGrade = 9;
 $finalAverage = .88;
 $messageBody = '';
