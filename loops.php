@@ -2,8 +2,7 @@
     $currentYear = date('Y');
     $year = $currentYear - 100;
 
-    do {
+    for($year; $year <= $currentYear; $year++) {
         echo $year . "\n";
     }
-    while(++$year <= $currentYear);
 ?>
